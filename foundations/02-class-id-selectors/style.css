@@ -1,0 +1,16 @@
+.class-p{
+    background-color: pink;
+    font-family: sans-serif, "Verdana","DejaVu Sans";
+}
+#div-id{
+    color: blue;
+    font-size: 36px;
+}
+.cooler-p{
+    font-size: 24px;
+}
+#div-id2{
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
